@@ -1,6 +1,6 @@
 ## Django To Do List 📚
 
-A simple todo list designed with Django's class base view :)
+A simple todo list designed with Django class-based views:)
 
 > **Startup commands in the local system :**
 
